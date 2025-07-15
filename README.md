@@ -18,7 +18,7 @@
 
    ```json
    {
-     "backupDirectory": "###",
+     "backupdirectory": "###",
      "connectionstring": {
        "datasource": "###",
        "userid": "###",
@@ -27,7 +27,7 @@
    }
    ```
 
-   - `backupDirectory`: `.bak` dosyalarının bulunduğu klasör.
+   - `backupdirectory`: `.bak` dosyalarının bulunduğu klasör.
    - `connectionstring`: SQL Server bağlantı bilgileri.
 
 ## Kullanım

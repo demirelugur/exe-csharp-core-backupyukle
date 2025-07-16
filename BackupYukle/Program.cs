@@ -12,7 +12,7 @@
     [SuppressMessage("Style", "IDE0060:Remove unused parameter", Justification = "<Pending>")]
     public class Program
     {
-        private static void Main(string[] args)
+        private static void Main(string[] args) //A
         {
             Console.Write("Yapılacak işlemi onaylıyor musunuz? [Y/N] : ");
             var r = Console.ReadKey(false).Key;
